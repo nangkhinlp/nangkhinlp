@@ -9,8 +9,8 @@ A memory matching card game.
 [Play the Game](http://34.42.119.145/)
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/nlapyae/)
-[GitHub](https://github.com/nangkhinlp)
+- [LinkedIn](https://www.linkedin.com/in/nlapyae/)
+- [GitHub](https://github.com/nangkhinlp)
 
 Aspiring Developer & Illustrator
 --------------------------------
