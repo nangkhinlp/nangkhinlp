@@ -1,0 +1,73 @@
+body {
+  font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+  background-color: #fff8f0;
+  color: #2d2d2d;
+}
+
+.profile-header {
+  background: linear-gradient(135deg, #ffb3c1, #ffd6a5);
+  color: #2d2d2d;
+}
+
+.profile-header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+main h2 {
+  border-bottom: 2px solid #ffb3c1;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+}
+
+.tech-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.tech-list li {
+  background-color: #ffd6a5;
+  color: #2d2d2d;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.project-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.connect-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.connect-list a {
+  color: #d6336c;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.connect-list a:hover,
+.connect-list a:focus {
+  text-decoration: underline;
+}
+
+footer {
+  color: #888;
+}
