@@ -5,8 +5,8 @@ Hi 👋 My name is Nancy
 
 ### Fruit Memory Match
 A memory matching card game.
-[View Repository](https://github.com/nangkhinlp/fruit-memory-match)
-[Play the Game](http://34.42.119.145/)
+- [View Repository](https://github.com/nangkhinlp/fruit-memory-match)
+- [Play the Game](http://34.42.119.145/)
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/nlapyae/)
