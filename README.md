@@ -4,8 +4,13 @@ Hi 👋 My name is Nancy
 ## Featured Project
 
 ### Fruit Memory Match
-A memory matching card game
-(https://github.com/nangkhinlp/fruit-memory-match)
+A memory matching card game.
+[View Repository](https://github.com/nangkhinlp/fruit-memory-match)
+[Play the Game](http://34.42.119.145/)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/nlapyae/)
+[GitHub](https://github.com/nangkhinlp)
 
 Aspiring Developer & Illustrator
 --------------------------------
